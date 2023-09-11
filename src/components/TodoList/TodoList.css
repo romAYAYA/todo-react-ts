@@ -1,0 +1,13 @@
+.todoList {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  width: 90%;
+}
+
+@media (max-width: 700px) {
+  .todoList {
+    width: 95%;
+    margin-bottom: 10px;
+  }
+}
