@@ -29,6 +29,12 @@
   cursor: pointer;
 }
 
+.singleTodo__input--edit {
+  font-size: 20px;
+  outline: none;
+  background: none;
+}
+
 @media (max-width: 1200px) {
   .singleTodo {
     width: 45%;
