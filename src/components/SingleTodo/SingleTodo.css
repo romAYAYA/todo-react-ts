@@ -35,6 +35,10 @@
   background: none;
 }
 
+.drag {
+  box-shadow: 0 0 20px black;
+}
+
 @media (max-width: 700px) {
   .singleTodo {
     width: 95%;
